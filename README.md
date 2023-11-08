@@ -9,7 +9,7 @@
 ## Repository 간단 소개
 | 이름 | 소개 | 링크 |
 | --- | --- | --- |
-| Study | 현재 매일매일 알고리즘 문제 풀이에 도전 중입니다. 이곳은 문제 풀이 코드를 저장하는 곳입니다.<br>2023년 10월 30일 기준 737일 연속 문제를 해결했습니다 | [링크](https://github.com/tlsgkdns/study) |
+| Study | 현재 매일매일 알고리즘 문제 풀이에 도전 중입니다. 이곳은 문제 풀이 코드를 저장하는 곳입니다.<br>2023년 11월 8일 기준 746일 연속 문제를 해결했습니다 | [링크](https://github.com/tlsgkdns/study) |
 | ExerHero | Arduino로 운동을 감지해 자원을 모으고 Unity로 몬스터들을 물리치는 팀 프로젝트입니다. | [링크](https://github.com/tlsgkdns/exerHero) |
 | RICU | Spring Boot를 책으로 처음 배우고, 책에 수록된 코드를 활용해서 기능을 추가하고 개선한 프로젝트입니다. | [링크](https://github.com/tlsgkdns/ricu) |
 
